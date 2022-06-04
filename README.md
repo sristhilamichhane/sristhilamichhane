@@ -1,6 +1,6 @@
 ### Hi  👋, I am Sristhi lamichhane 
 
-- 🌱 Pursuing my Bachlor's degree in Software Engineering at Pokhara University, Nepal
+- 🌱 Pursuing my Bachelor's degree in Software Engineering at Pokhara University, Nepal
 
 - 🌱 I’m currently learning **ReactJs**
  
