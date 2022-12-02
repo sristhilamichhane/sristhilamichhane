@@ -1,8 +1,19 @@
-### Hi  👋, I am Sristhi lamichhane 
+<h1 align="center">
+  <a href="https://sristhilamichhane.github.io/">
+    <img src="https://readme-typing-svg.herokuapp.com?color=black&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Sristhi+lamichhane.">
+  </a>
+</h1>
+<h5 align="center">Pursuing my Bachelor's degree in Software Engineering at Pokhara University, Nepal.
+</h5>
 
-- 🌱 Pursuing my Bachelor's degree in Software Engineering at Pokhara University, Nepal
+ <p>&nbsp;</p>
 
-- 🌱 I’m currently learning **ReactJs**
+
+
+- 🌱 I am currently learning: **React Js**
+
+- 📫  Reach me: **srishtilamichhane83@gmail.com**
+
  
 
 
