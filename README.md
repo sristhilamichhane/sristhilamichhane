@@ -11,9 +11,6 @@
 
 
 
-- 🌱 I am currently learning: **React Js**
-
-
 <p>&nbsp;</p>
  
 
