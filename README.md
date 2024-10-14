@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=black&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Sristhi+lamichhane.">
   </a>
 </h1>
-<h5 align="center">Pokhara, Nepal.
+<h5 align="center">From Pokhara, Nepal.
 </h5>
 
 
